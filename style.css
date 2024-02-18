@@ -1,0 +1,73 @@
+.top-container {
+    background-color: #F6B17A;
+    position: relative;
+    margin-top: -50px;  
+}
+
+p {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1  {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.header-container {
+    background-color: #F6B17A;
+}
+.fs-4 {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.nav-link {
+  color: black; /* Setează culoarea textului butoanelor la negru */
+  background-color: transparent;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: white;
+  background-color: black;
+}
+
+h2.pb-2.border-bottom {
+font-family: "Indie Flower", cursive;
+font-weight: 400;
+font-style: normal;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.post {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.final {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+a {
+  color: black;
+}
+
+.btn.btn-darker.btn-lg.px-4.me-sm-3 {
+  color: white;
+  background-color: black;
+}
+.btn.btn-outline-secondary.btn-lg.px-4 {
+  color: black;
+  background-color: #F6B17A ;
+}
